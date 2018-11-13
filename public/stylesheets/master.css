@@ -399,7 +399,7 @@ a {
 
 .services{
   min-height: 80vh;
-  background: url(public/images/img/pozadina.jpg) center/cover fixed no-repeat ;
+  
   display: flex;
   align-items: center;
 }
