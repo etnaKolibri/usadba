@@ -409,6 +409,7 @@ a {
   min-height: 80vh;
   display: flex;
   align-items: center;
+ 
 }
 
 .service{
@@ -421,10 +422,10 @@ a {
 
 .service-icon{
   align-self: center;
-  font-size: 60px;
+  font-size: 40px;
   margin-right: 20px;
   border-radius: 50%;
-  padding: 20px;
+  padding: 10px;
   border: 3px solid white;
 }
 
@@ -467,7 +468,7 @@ a {
   display: flex;
   align-items: center;
   font-family: 'Dancing Script', cursive;
-  font-size: 6rem;
+  font-size: 4rem;
   text-align: center;
 }
 
@@ -488,7 +489,7 @@ main {
 
 .service-iconb{
   align-self: center;
-  font-size: 60px;
+  font-size: 10em;
   margin-right: 20px;
   border-radius: 50%;
   padding: 20px;
@@ -656,10 +657,9 @@ body{
 }
 footer {
   background: #ebf3ea;
-  padding: 20px 0;
+  padding: ;
 }
 footer .footer-box{
-  width: 33.3333%;
   margin: auto;
   align-content: center;
   align-items: center;
