@@ -430,7 +430,7 @@ a {
 }
 
 .service-text{
-  text-transform: uppercase;
+  text-transform: ;
 
 }
 
@@ -470,9 +470,8 @@ a {
   font-family: 'Dancing Script', cursive;
   font-size: 4rem;
 }
-.servicesb p{
-  align-self: center;
-}
+
+
 
  
 
@@ -499,9 +498,7 @@ main {
 }
 
 .service-textb{
-  text-transform: uppercase;
-
-}
+  text-transform:}
 
 .service-textb p{
   line-height: 2;
@@ -698,6 +695,7 @@ footer .footer-box .fa{
 
 .kurac{
   display: inline-flex;
+  text-align: left;
 }
 
 
