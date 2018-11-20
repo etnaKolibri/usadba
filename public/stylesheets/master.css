@@ -3,6 +3,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: 'Playfair Display', serif;
 }
 
 /*  nav bar */  
@@ -339,6 +340,7 @@ a {
   justify-content: center;
   align-items: center;
   text-align: center;
+  color: ;
 }
 
 .banner-center img{
@@ -359,7 +361,7 @@ a {
 .banner h3{
   text-transform: capitalize;
   font-size: 30px;
-  color: #0d1317;
+  color: #444749;
 }
 
 
@@ -437,6 +439,7 @@ a {
 .service-text p{
   line-height: 2;
   margin-top: 5px;
+  font-size: 2vw;
 }
 
 
